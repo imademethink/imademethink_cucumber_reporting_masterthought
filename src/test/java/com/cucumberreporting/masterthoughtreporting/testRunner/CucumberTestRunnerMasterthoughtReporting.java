@@ -1,4 +1,4 @@
-package com.cucumberreporting.masterthoughtreporting.stepDefinition;
+package com.cucumberreporting.masterthoughtreporting.testRunner;
 
 import org.junit.runner.RunWith;
 
